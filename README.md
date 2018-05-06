@@ -1,2 +1,3 @@
-# photo-gallery
-Animated image gallery
+# Animated Image Gallery
+
+Technologies: HTML5, CSS3, Javascript
